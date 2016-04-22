@@ -1,0 +1,29 @@
+@font-face {
+	font-family: "1942";
+	src: url(fonts/1942.ttf);
+}
+
+@font-face {
+	font-family: "blackjack";
+	src: url(fonts/blackjack.otf);
+}
+
+body {
+	background-image: url("images/prince.jpg");
+	max-width: 100%;
+	background-color: #000000;
+}
+
+.white {
+	color: white;
+	font-family: "blackjack";
+	font-size: 2em;
+ 	margin-left: 100px;
+ }
+
+h1 {
+	font-family: "1942";
+	color: #ffffff;
+	font-size: 3.5em;
+	text-align: center;
+}
